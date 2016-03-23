@@ -1,8 +1,8 @@
-## 8 Hour Sprint: The Rails on Rails app
-
 # [Rails on Rails](https://damp-tundra-99936.herokuapp.com/stop/107<Paste>) (It's on a free Heroku tier, so don't be afraid to nudge it a few times)
 
-The backend / frontend for a NJ Transit geolocation enabled departure & arrival time app. Created from 11AM to 7:30 PM on Wednesday March 23rd, 2016.
+## The 8 Hour Challenge
+
+The backend / frontend for a NJ Transit geolocation enabled departure & arrival time app. Created from 11AM to 7:30 PM on Wednesday March 23rd, 2016 for the [Viking Code School](http://www.vikingcodeschool.com).
 
 ### Stack
 
