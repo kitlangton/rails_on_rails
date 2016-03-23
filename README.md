@@ -1,4 +1,4 @@
-# [Rails on Rails](https://damp-tundra-99936.herokuapp.com/stop/107<Paste>) (It's on a free Heroku tier, so don't be afraid to nudge it a few times)
+# [Rails on Rails](https://damp-tundra-99936.herokuapp.com/) (It's on a free Heroku tier, so don't be afraid to nudge it a few times)
 
 ## The 8 Hour Challenge
 
