@@ -18,6 +18,7 @@ Since we were only given 8 hours to do everything (including the scrawling of th
 1. It works!
 2. The Database is full of data. (see Data section)
 3. Ember frontend geolocates the user, and defaults origin to closest stop upon success.
+4. Only shows the trips scheduled to depart after the current time (which means you may not see anything if you log in very late in the day).
 4. Not horribly ugly. Just enough time for bootstrap sass.
 5. Was successfully able to restrain my desire to style the shit out of the frontend.
 6. Passing tests! (Don't count them)
