@@ -13,7 +13,7 @@ The backend / frontend for a NJ Transit geolocation enabled departure & arrival 
 
 ### Features
 
-Since we were only given 8 hours to do this (including writing this README), I may count certain things as features which might otherwise be questionable:
+Since we were only given 8 hours to do everything (including the scrawling of this README), I may count certain things as features whose inclusion might be otherwise questionable:
 
 1. It works!
 2. The Database is full of data. (see Data section)
@@ -25,6 +25,6 @@ Since we were only given 8 hours to do this (including writing this README), I m
 
 ### Data
 
-Data was gathered from the NJ Transit developer resources... which is actually just a zipped folder full of txt files.
+Data was gathered from [NJ Transit developer resources](https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTo)... which is literally just **a zipped folder full of txt files**.
 
 There is a rake task `rake import:data` which sucks all the data into the postgresql backend.
