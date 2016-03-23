@@ -7,11 +7,11 @@ The backend / frontend for a NJ Transit geolocation enabled departure & arrival 
 - Postgres
 - Rails 5 API
 - JSON API Resources
-- Ember Frontend
+- [Ember Frontend](https://github.com/kitlangton/rails_frontend)
 
 ### Features
 
-Since we were only given 8 hours to do this (includig writing this README), I may count certain things as features which might otherwise be questionable:
+Since we were only given 8 hours to do this (including writing this README), I may count certain things as features which might otherwise be questionable:
 
 1. It works!
 2. The Database is full of data. (see Data section)
