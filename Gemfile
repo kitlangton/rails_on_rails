@@ -24,6 +24,9 @@ gem 'jsonapi-resources', git: "git://github.com/cerebris/jsonapi-resources.git",
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  gem 'shoulda'
+  gem 'rspec-rails', '~> 3.0'
+  gem 'guard-rspec'
 end
 
 group :development do
