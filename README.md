@@ -25,6 +25,6 @@ Since we were only given 8 hours to do everything (including the scrawling of th
 
 ### Data
 
-Data was gathered from [NJ Transit developer resources](https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTo)... which is literally just **a zipped folder full of txt files**.
+Data was gathered from [NJ Transit Developer Resources](https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTo)... which is literally just **a zipped folder full of txt files**.
 
 There is a rake task `rake import:data` which sucks all the data into the postgresql backend.
