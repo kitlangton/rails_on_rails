@@ -1,5 +1,5 @@
 class Route < ApplicationRecord
-  has_many :routes
+  has_many :trips
 
   def self.import(file)
     CSV.foreach(file, headers: true) do |row|

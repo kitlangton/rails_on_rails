@@ -4,10 +4,10 @@ The backend / frontend for a NJ Transit geolocation enabled departure & arrival 
 
 ### Stack
 
-- Postgres
-- Rails 5 API
-- JSON API Resources
 - [Ember Frontend](https://github.com/kitlangton/rails_frontend)
+- Rails 5 beta 3 --api Backend
+- [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources)
+- Postgres
 
 ### Features
 
